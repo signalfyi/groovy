@@ -1,1 +1,1 @@
-FROM groovy:alpine
+FROM groovy:alpine@sha256:505d4a5121ed6bb1c86476ea20524ea8329b1013ef05f72ddb0aa6815887437d
